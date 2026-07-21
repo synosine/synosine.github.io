@@ -117,7 +117,8 @@ Click the Import from Screen tab, and navigate down to any gear with your skin m
 
 ![14 import from screen.jpg](.\images\14_import_from_screen.jpg)
 
-\* _Au ra and Hrothgar see the note below_
+_Au ra and Hrothgar see the note below_[*](#au-rahrothgar-note)
+
 Click the Textures tab, and select the texture you just copied from the dropdown menu.
 Click the Show Overlay button in the top right, and select the edited AO map for the overlay.
 Change the overlay settings to Copy Channels, and enable only the Blue channel. If your AO map is somehow a different size than the normal map, you can resize it here, but I recommend going back to Blender and changing the size there.
@@ -125,7 +126,7 @@ Once your output looks similar to the one in the screenshot, hold Control+Shift 
 
 ![15 texture overlay.jpg](.\images\15_texture_overlay.jpg)
 
-#### Au ra/Hrothgar Note​
+#### Au ra/Hrothgar Note
 
 The above method does **not** work for Au ra/Hrothgar because their skin textures use the blue channel for scales/fur and will require additional work.
 
